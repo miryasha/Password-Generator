@@ -1,3 +1,11 @@
-# Password-Generator
+•	Title:
+   Password Generator 
+  
+•	Description:
+Password Generator creates secure passwords that are hard to crack.
+•	Technologies:
+HTML, CSS, JS
 
-https://yasha6081.github.io/Password-Generator/
+•           Access to Generator:
+ https://yasha6081.github.io/Password-Generator
+
