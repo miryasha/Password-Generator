@@ -2,7 +2,7 @@
    Password Generator 
   
 •	Description:
-Password Generator creates secure passwords that are hard to crack.
+Password Generator creates secure passwords that is hard to crack.
 
 •	Technologies:
 HTML, CSS, JS
