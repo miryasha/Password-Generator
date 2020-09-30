@@ -1,3 +1,8 @@
+#Password Generator 
+
+<img src="./Asset/gif.gif" alt="GIF">
+
+
 •	Title:
    Password Generator 
   
