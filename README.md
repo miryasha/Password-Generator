@@ -1,6 +1,6 @@
 #Password Generator 
 
-<img src="Assets/gif.gif" alt="GIF">
+<img src="Assets/g.gif" alt="GIF">
 
 
 •	Title:
