@@ -1,6 +1,6 @@
 #Password Generator 
 
-<img src="./Asset/gif.gif" alt="GIF">
+<img src="https://github.com/yasha6081/Password-Generator/commit/c742c2056c54cce43b323e5b8b5bf060959a4c54#diff-bdc5e73a4b73dea02b6271b9c9b0877d" alt="GIF">
 
 
 •	Title:
